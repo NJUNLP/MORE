@@ -1,12 +1,15 @@
 # MORE
+
 This repository maintains the code and data for "MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation". (He, et al. ACM MM 2023).
 
 ## Data
+
 Data can be downloaded from here **(we will upload it soon)**.
 
 Before releasing the dataset publicly, we spent a lot of time rechecking all the data, removing most of the sensitive data, correcting obvious labeling errors, and adding some new data. As a result, we updated all the experimental results in the paper on the new dataset, and the updated version of the paper can be found here **(we will upload it soon)**.
 
 ## Requirements
+
 * transformers==4.11.3
 * tensorboardX==2.4
 * pytorch-crf==0.7.2
@@ -20,12 +23,14 @@ Before releasing the dataset publicly, we spent a lot of time rechecking all the
 * ftfy==6.1.1
 
 ## Usage
+
 conda create -n moreformer python==3.7 \
 conda activate moreformer \
 pip install -r requirements.txt \
-sh run.sh \
+sh run.sh
     
 ## Citation
+
 If you used the datasets or code, please cite our paper.
 
 @inproceedings{he2023more, \
