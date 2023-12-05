@@ -33,6 +33,7 @@ sh run.sh
 
 If you used the datasets or code, please cite our paper.
 
+```bibtex
 @inproceedings{he2023more, \
   title={MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation}, \
   author={He, Liang and Wang, Hongke and Cao, Yongchang and Wu, Zhen and Zhang, Jianbing and Dai, Xinyu}, \
@@ -40,3 +41,4 @@ If you used the datasets or code, please cite our paper.
   pages={4564--4573}, \
   year={2023} \
 }
+```
