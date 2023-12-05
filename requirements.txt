@@ -1,0 +1,11 @@
+transformers==4.11.3
+tensorboardX==2.4
+pytorch-crf==0.7.2
+torchvision==0.8.0
+scikit-learn==1.0
+numpy>=1.21
+tokenizers==0.10.3
+torch==1.7.0
+tqdm==4.49.0
+opencv-python==4.7.0.68
+ftfy==6.1.1
