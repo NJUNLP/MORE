@@ -6,7 +6,8 @@ This repository maintains the code and data for "MORE: A Multimodal Object-Entit
 
 Data can be downloaded from **[here](https://pan.baidu.com/s/1PA6raw1rbQKhPEL1FEEuAw?pwd=taft)**.
 
-Before releasing the dataset publicly, we spent a lot of time rechecking all the data, removing most of the sensitive data, correcting obvious labeling errors, and adding some new data. As a result, we updated all the experimental results in the paper on the new dataset, and the updated version of the paper can be found here **(we will upload it soon)**.
+Before releasing the dataset publicly, we spent a lot of time rechecking all the data, removing most of the sensitive data, correcting obvious labeling errors, and adding some new data. As a result, we updated all the experimental results in the paper on the new dataset, and the updated version of the paper can be found **[here](https://arxiv.org/abs/2312.09753)**.
+
 
 In the revised version, MORE consists of 21 distinct relation types and contains 20,264 multimodal relational facts annotated on 3,559 pairs of textual titles and corresponding images. The dataset includes 13,520 visual objects (3.8 objects per image on average). We split the dataset into training, development, and testing sets consisting of 15,486, 1,742 and 3,036 facts respectively.
 
