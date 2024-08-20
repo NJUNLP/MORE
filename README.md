@@ -56,6 +56,7 @@ Multi-object disambiguation analysis:
 | ViLBERT  | **75.31/72.30** | 75.31/70.41 | 75.31/71.34 |
 | **MOREformer** | 72.28/71.43 | **79.75/76.61** | **75.84/73.93** |
 
+Checkpoint can be downloaded from **[here](https://pan.baidu.com/s/1ILc61-HOn1eKWb-rsep4Ig?pwd=hjch)**
 
 ## Requirements
 
